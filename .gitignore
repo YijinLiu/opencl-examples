@@ -1,0 +1,6 @@
+*.o
+*_cl.[ch]
+*.swp
+*.swo
+compile_cl
+integral_pi
